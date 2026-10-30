@@ -38,3 +38,5 @@ and FFmpeg.
 ## Further Reading
 
 <https://arifd.github.io/cv/>
+
+<https://arifd.github.io/blog/>
