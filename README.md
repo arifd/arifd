@@ -2,14 +2,14 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-arifd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arif_Driessen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-driessen)
-  
+
 </div>
 
 **Senior Software Engineer** focused on Rust backend systems, thoughtful API
 design, and software that stays correct and maintainable as it grows. I’ve
 worked across full-stack product engineering, computational linguistics, and
-education, and I contribute to open-source projects including Rust Clippy and
-Tokio.
+education, and I contribute to open-source projects including Rust Clippy, Tokio
+and FFmpeg.
 
 ## What I Work With
 
@@ -37,4 +37,4 @@ Tokio.
 
 ## Further Reading
 
-https://arifd.github.io/cv/
+<https://arifd.github.io/cv/>
