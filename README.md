@@ -16,6 +16,7 @@ and FFmpeg.
 <div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-455A64?style=for-the-badge&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-455A64?style=for-the-badge&logo=swift&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-455A64?style=for-the-badge&logo=databricks&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-455A64?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-455A64?style=for-the-badge&logo=javascript&logoColor=white)
@@ -24,6 +25,7 @@ and FFmpeg.
 ![SQLite](https://img.shields.io/badge/SQLite-3F6E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-3F6E8C?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3F6E8C?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-2A8C82?style=for-the-badge&logo=swift&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-2A8C82?style=for-the-badge&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/React-2A8C82?style=for-the-badge&logo=react&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-6C63A8?style=for-the-badge&logo=minio&logoColor=white)
@@ -31,6 +33,7 @@ and FFmpeg.
 ![Keycloak](https://img.shields.io/badge/Keycloak-6C63A8?style=for-the-badge&logo=keycloak&logoColor=white)
 ![WebGPU](https://img.shields.io/badge/WebGPU-557A95?style=for-the-badge)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-557A95?style=for-the-badge&logo=webassembly&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-557A95?style=for-the-badge&logo=apple&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-557A95?style=for-the-badge&logo=nixos&logoColor=white)
 
 </div>
